@@ -44,6 +44,12 @@ npm install --save @nestjs/mongoose mongoose
 npm install class-validator class-transformer
 ```
 
+8. Construir la Base de Datos con la Semilla
+
+```
+http://localhost:3000/api/v2/seed
+```
+
 ## Stack Usado
 
 - MongoDB
