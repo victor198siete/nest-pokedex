@@ -44,6 +44,14 @@ npm install --save @nestjs/mongoose mongoose
 npm install class-validator class-transformer
 ```
 
+7.1 Clonar el archivo **.env.template** y renombrar la copia a **.env**
+
+7.2 Llenar las variables de entorno
+
+7.3 Ejecutar la aplicacion en de
+
+`npm run start:dev`
+
 8. Construir la Base de Datos con la Semilla
 
 ```
