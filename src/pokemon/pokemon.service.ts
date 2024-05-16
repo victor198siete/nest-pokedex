@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 /* eslint-disable @typescript-eslint/no-unused-vars */
 /* eslint-disable prettier/prettier */
 import { BadRequestException, Injectable, InternalServerErrorException, NotFoundException } from '@nestjs/common';
